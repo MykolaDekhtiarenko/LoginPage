@@ -5,7 +5,7 @@ $(document).ready(function () {
 
     function getUserData() {
         FB.api('/me', function(response) {
-            document.getElementById('fbLoginBtn').val("Sign in as "+response.name);
+            document.getElementById('fbLoginBtn').value="Sign in as "+response.name;
         });
     }
 
