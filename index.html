@@ -1,9 +1,13 @@
 <html>
 <head>
     <title>Login page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"
             integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
             crossorigin="anonymous"></script>
+
+
     <script src="js/facebook.js"></script>
     <script src="js/google.js"></script>
 
@@ -20,11 +24,9 @@
         <form class="login-form margin-zero">
             <input type="text" name="email" placeholder="Email"/>
             <input type="password" name="password" placeholder="Create password"/>
-            <input type="submit" class="btn btn-info button margin-zero" value="Continue"/>
+            <input type="submit" class="button margin-zero" value="Continue"/>
             <h4>or</h4>
-
-
-            <button type="button" id="googleLoginBtn" class="btn btn-info button google-btn">
+            <button type="button" id="googleLoginBtn" class="button google-btn">
                 <div class="logo-wrapper">
                     <div class="google-logo-background"><img src="css/icons/google.png"></div>
                 </div>
@@ -32,7 +34,7 @@
             </button>
 
 
-            <button type="button" id="fbLoginBtn" class="btn btn-info button facebook-btn">
+            <button type="button" id="fbLoginBtn" class="button facebook-btn">
                 <div class="logo-wrapper">
                     <div><img src="css/icons/facebook.png"></div>
                 </div>
