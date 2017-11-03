@@ -11,7 +11,7 @@ $(document).ready(function () {
             // Request scopes in addition to 'profile' and 'email'
             //scope: 'additional_scope'
         });
-        alert("loading.....");
+
         attachSignin(document.getElementById('googleLoginBtn'));
     });
 

@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="css/login.css">
     <link rel="stylesheet" href="css/general.css">
 
-    <!--<meta name="google-signin-client_id" content="25349712151-aeh42llej5ehnsimvsjk5g4a3mkjrkkq.apps.googleusercontent.com">-->
 
 </head>
 <body>
@@ -19,12 +18,25 @@
 <div class="login-page">
     <div class="form">
         <form class="login-form margin-zero">
-            <input type="text" name="email" placeholder="email"/>
-            <input type="password" name="password" placeholder="create password"/>
-            <input type="submit" class="btn btn-info button margin-zero" value="Continue">
+            <input type="text" name="email" placeholder="Email"/>
+            <input type="password" name="password" placeholder="Create password"/>
+            <input type="submit" class="btn btn-info button margin-zero" value="Continue"/>
             <h4>or</h4>
-            <input type="button" id="googleLoginBtn" class="btn btn-info button google-btn" value="Continue with Google">
-            <input type="button" id="fbLoginBtn" class="btn btn-info button facebook-btn" value="Continue with Facebook">
+
+
+
+                <button type="button" id="googleLoginBtn" class="btn btn-info button google-btn" >
+                    <div class="logo-wrapper"><div class="google-logo-background"><img src="css/icons/google.png"></div></div>
+                    Continue with Google
+                </button>
+
+
+
+
+            <button type="button" id="fbLoginBtn" class="btn btn-info button facebook-btn">
+                <div class="logo-wrapper"><div><img src="css/icons/facebook.png"></div></div>
+                Continue with Facebook
+            </button>
         </form>
     </div>
 
