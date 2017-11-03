@@ -5,6 +5,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/login.css" afterPath="$PROJECT_DIR$/css/login.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/facebook.js" afterPath="$PROJECT_DIR$/js/facebook.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/google.js" afterPath="$PROJECT_DIR$/js/google.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,12 +23,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="facebook.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/facebook.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="64" lean-forward="false" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#53#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="4" column="75" lean-forward="true" selection-start-line="4" selection-start-column="75" selection-end-line="4" selection-end-column="75" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="google.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/google.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="23" column="72" lean-forward="false" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#53#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,8 +60,8 @@
       <file leaf-file-name="login.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/login.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="150" column="23" lean-forward="false" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="23" />
+            <state relative-caret-position="655">
+              <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -59,11 +84,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/login.html" />
-        <option value="$PROJECT_DIR$/js/facebook.js" />
-        <option value="$PROJECT_DIR$/js/google.js" />
         <option value="$PROJECT_DIR$/css/general.css" />
-        <option value="$PROJECT_DIR$/css/login.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/login.css" />
+        <option value="$PROJECT_DIR$/js/google.js" />
+        <option value="$PROJECT_DIR$/js/facebook.js" />
       </list>
     </option>
   </component>
@@ -108,8 +133,7 @@
             <path>
               <item name="Login" type="b2602c69:ProjectViewProjectNode" />
               <item name="Login" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="icons" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,12 +243,12 @@
       <workItem from="1509628137578" duration="3399000" />
       <workItem from="1509726096920" duration="189000" />
       <workItem from="1509726676177" duration="2496000" />
-      <workItem from="1509730870876" duration="5583000" />
+      <workItem from="1509730870876" duration="6395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14119000" />
+    <option name="totallyTimeSpent" value="14931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -409,26 +433,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.html" />
-    <entry file="file://$PROJECT_DIR$/js/facebook.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#53#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/google.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="33" lean-forward="false" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#53#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/general.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -437,19 +441,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/login.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="150" column="23" lean-forward="false" selection-start-line="150" selection-start-column="1" selection-end-line="150" selection-end-column="23" />
+        <state relative-caret-position="45">
+          <caret line="4" column="75" lean-forward="true" selection-start-line="4" selection-start-column="75" selection-end-line="4" selection-end-column="75" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="655">
+          <caret line="49" column="20" lean-forward="false" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/google.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="72" lean-forward="false" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#53#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/facebook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="64" lean-forward="false" selection-start-line="7" selection-start-column="64" selection-end-line="7" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#53#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -20,7 +20,8 @@ $(document).ready(function () {
         console.log(element.id);
         auth2.attachClickHandler(element, {},
             function (googleUser) {
-                document.getElementById('googleLoginBtn').value = "Continue as " +
+                console.log(googleUser.getBasicProfile().getName());
+                document.getElementById('googleLoginBtnLabel').innerText = "Continue as " +
                     googleUser.getBasicProfile().getName();
             }, function (error) {
                 alert(JSON.stringify(error, undefined, 2));
